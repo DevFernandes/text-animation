@@ -1,6 +1,6 @@
 # ✔️ Desafio text-animation
 
-🗃️ Repositório criado para desenvolver css
+🗃️ Repositório criado para desenvolver conhecimento em css
 
 🚩 Skills:
 - HTML
